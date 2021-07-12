@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RESTORANAPP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RESTORANAPP_jar</output-path>
+    <root id="archive" name="RESTORANAPP.jar">
+      <element id="module-output" name="RESTORANAPP" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/flatlaf-0.46.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mysql-connector.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
